@@ -1,0 +1,41 @@
+h1{
+    color: white;
+    font-size: 79px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+
+    
+}
+body{
+    background-color: black; 
+    text-decoration: none;
+}
+
+
+img{
+    width: 70px;
+    height: 70px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background: white;
+    font-family: 'Gill Sans';
+    padding-left: 15px;
+    padding-right: 15px;
+align-items: center;
+}
+P{
+    color: white;
+    text-align: center;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin: 20px;
+     è
+}
+button{
+    
+ }
